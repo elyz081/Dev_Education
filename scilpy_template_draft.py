@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Module Description:
+Script Description:
 -------------------
 [Provide a brief description of the functionality of the script.]
 
